@@ -1,6 +1,3 @@
-# Resource 
-
-
 #### Top JS Books
 1. Eloquent JavaScript - Marjin Haverbeke 
 2. JavaScript: The good parts - Douglas Crockford 
@@ -89,38 +86,38 @@
 [More Youtube Channel Visit Link]([https://twitter.com/ravinwashere/status/1277626944478040065](https://twitter.com/ravinwashere/status/1277626944478040065)) 
 
 #### Free Hosting
-http://netlify.com
-http://firebase.google.com
-http://aws.amazon.com
-http://heroku.com
-http://pages.github.com
-http://vercel.com
-http://surge.sh
-http://render.com
-http://docs.gitlab.com/ee/user/project/pages
+- http://netlify.com
+- http://firebase.google.com
+- http://aws.amazon.com
+- http://heroku.com
+- http://pages.github.com
+- http://vercel.com
+- http://surge.sh
+- http://render.com
+- http://docs.gitlab.com/ee/user/project/pages
 
 #### Learning Platforms
 
-http://freecodecamp.org
-http://codecademy.com
-http://javascript30.com
-http://frontendmentor.io
-http://testautomationu.applitools.com
-http://coursera.org
-http://khanacademy.org
-http://sololearn.com
+- http://freecodecamp.org
+- http://codecademy.com
+- http://javascript30.com
+- http://frontendmentor.io
+- http://testautomationu.applitools.com
+- http://coursera.org
+- http://khanacademy.org
+- http://sololearn.com
 
 #### Coading Chanllenge Platforms 
-http://codewars.com
-http://topcoder.com
-http://codingame.com
-http://hackerrank.com
-http://projecteuler.net
-http://coderbyte.com
-http://codechef.com
-http://exercism.io
-http://leetcode.com
-http://spoj.com
+- http://codewars.com
+- http://topcoder.com
+- http://codingame.com
+- http://hackerrank.com
+- http://projecteuler.net
+- http://coderbyte.com
+- http://codechef.com
+- http://exercism.io
+- http://leetcode.com
+- http://spoj.com
 
 
 #### Photos 
@@ -129,137 +126,139 @@ http://spoj.com
 📷 http://pexels.com
 
 #### Illustrations
-http://undraw.co/illustrations
-http://drawkit.io
-http://icons8.com/ouch
-http://iradesign.io
-http://interfacer.xyz
-http://blush.design
+- http://undraw.co/illustrations
+- http://drawkit.io
+- http://icons8.com/ouch
+- http://iradesign.io
+- http://interfacer.xyz
+- http://blush.design
 
 #### icons
-http://fontawesome.com
-http://flaticon.com
-http://icons8.com
-http://material.io/resources/icons
-http://iconmonstr.com
+- http://fontawesome.com
+- http://flaticon.com
+- http://icons8.com
+- http://material.io/resources/icons
+- http://iconmonstr.com
 
 #### Fonts
-http://fonts.google.com
-http://fontspace.com
-http://1001fonts.com
-http://fontsquirrel.com
+- http://fonts.google.com
+- http://fontspace.com
+- http://1001fonts.com
+- http://fontsquirrel.com
 #### Youtube Channels
 
-Traversy Media
-FreeCodeCamp
-The Net Ninja
-Google Chrome Developers
-The New Boston
-Derek Banas
-Academind
+- Traversy Media
+- FreeCodeCamp
+- The Net Ninja
+- Google Chrome Developers
+- The New Boston
+- Derek Banas
+- Academind
+
 #### Podcasts
-Syntax
-Fullstack radio
-The Changelog
-The Laracasts Snippet
-Front End Happy Hour
-JavaScript Jabber Archives
-Commit Your Code!
-Shop Talk
-Ladybug Podcast
-CodePen Radio
-JAMStack Radio
-Modern web
+- Syntax
+- Fullstack radio
+- The Changelog
+- The Laracasts Snippet
+- Front End Happy Hour
+- JavaScript Jabber Archives
+- Commit Your Code!
+- Shop Talk
+- Ladybug Podcast
+- CodePen Radio
+- JAMStack Radio
+- Modern web
 
 #### Code Editors
-Visual Studio Code [VS Code]
-Sublime Text
-Atom
-Brackets
-Vim
+- Visual Studio Code [VS Code]
+- Sublime Text
+- Atom
+- Brackets
+- Vim
 
 #### Color Palettes
-http://coolors.co
-http://colorhunt.co
-http://paletton.com
-http://color-hex.com
-http://mycolor.space
+- http://coolors.co
+- http://colorhunt.co
+- http://paletton.com
+- http://color-hex.com
+- http://mycolor.space
 
 #### UI Inspiration
-http://uimovement.com
-http://uigarage.net
-http://collectui.com
+- http://uimovement.com
+- http://uigarage.net
+- http://collectui.com
 
 #### Docs
-http://developer.mozilla.org
-http://w3schools.com
-http://w3docs.com
-http://devdocs.io
+- http://developer.mozilla.org
+- http://w3schools.com
+- http://w3docs.com
+- http://devdocs.io
 
 #### Animation Libraries
-CSShake
-Animate.css
-AnimeJS
-GreenSock (GSAP)
-Magic Animations
-Hover css
-AniJS
-Wicked CSS
-Tuesday
-Mo.js
-Bounce.js
+- CSShake
+- Animate.css
+- AnimeJS
+- GreenSock (GSAP)
+- Magic Animations
+- Hover css
+- AniJS
+- Wicked CSS
+- Tuesday
+- Mo.js
+- Bounce.js
+
 #### Charts / Data Visualization
-Chart.js
-D3.js
-three.js
+- Chart.js
+- D3.js
+- three.js
 
 #### Chrome Extensions
-Web Developer
-CSSViewer
-Wappalyzer
-JSONView
-Lorem Ipsum Generator
-OneTab
-Extensity 
-Hunter
-Screen castify 
-Tab Resize 
+- Web Developer
+- CSSViewer
+- Wappalyzer
+- JSONView
+- Lorem Ipsum Generator
+- OneTab
+- Extensity 
+- Hunter
+- Screen castify 
+- Tab Resize 
 
 #### Website Optimization Tools
-Google PageSpeed Insights
-GTmetrix
-WebPageTest
-Yslow
+- Google PageSpeed Insights
+- GTmetrix
+- WebPageTest
+- Yslow
 
 
 #### Graphics Design Inspiration
-Dribble 
-Behance 
-Awwwards
-Logoinspirations 
-Collect ui
-Designspiration 
-Pinterest 
+- Dribble 
+- Behance 
+- Awwwards
+- Logoinspirations 
+- Collect ui
+- Designspiration 
+- Pinterest 
 
 #### Animation Libraries for websites
-CSSHake 
-Anime js 
-Bounce js 
-Mo js
-Tuesday 
-Wicked css 
-Magic
-Gsap
+- CSSHake 
+- Anime js 
+- Bounce js 
+- Mo js
+- Tuesday 
+- Wicked css 
+- Magic
+- Gsap
 
 #### Developer Tools 
-CloudCraft  
-Figma 
-Font Flipper 
-VisBug 
- Insomnia 
- Flare 
- BundlePhobia 
- Soft Murmer
+- CloudCraft  
+- Figma 
+- Font Flipper 
+- VisBug 
+ - Insomnia 
+ - Flare 
+ - BundlePhobia 
+ - Soft Murmer
 
 #### Important javaScript Concept 
 - Hoisting 
