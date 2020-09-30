@@ -271,6 +271,8 @@
 #### Blogs 
 [Grid & FlexBox]([https://ishadeed.com/article/grid-layout-flexbox-components/](https://ishadeed.com/article/grid-layout-flexbox-components/))
 
-
+### dev.to
+[Best Design Resources](https://dev.to/theme_selection/best-design-resources-websites-every-developer-should-bookmark-1p5d)
+[vscode Extensions] (https://dev.to/theme_selection/vs-codes-every-developers-should-use-in-2020-2fa3)
 
 Thanks for this share amazing resource  [ravinwashere](https://twitter.com/ravinwashere)  [denicmarko](https://twitter.com/denicmarko) [addyosmani](https://twitter.com/addyosmani)
