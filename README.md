@@ -4,6 +4,7 @@
 3. Learn JavaScript visually - Ivelin Demirov 
 4.  JavaScript: The definitive guide - David Flanagan 
 5.  A smarter way to learn JavaScript - Mark Myers
+6. [Zell's Course - Intermediate](https://learnjavascript.today/)
 	##### Non Programming 
 	1. Atomic Habits by James clear 
 	2.  Deep work by Cal Newport 
@@ -270,7 +271,8 @@
 -  Async await
 
 #### Blogs 
-[Grid & FlexBox]([https://ishadeed.com/article/grid-layout-flexbox-components/](https://ishadeed.com/article/grid-layout-flexbox-components/))
+-[Grid & FlexBox]([https://ishadeed.com/article/grid-layout-flexbox-components/](https://ishadeed.com/article/grid-layout-flexbox-components/))
+-[Web Developement](https://codingdeck.com/blog/web-development-plan/)
 
 ### dev.to
 [Best Design Resources](https://dev.to/theme_selection/best-design-resources-websites-every-developer-should-bookmark-1p5d)
