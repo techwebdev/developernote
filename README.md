@@ -106,6 +106,7 @@
 - http://coursera.org
 - http://khanacademy.org
 - http://sololearn.com
+- https://github.com/goldbergyoni/nodebestpractices
 
 #### Coading Chanllenge Platforms 
 - http://codewars.com
